@@ -1,7 +1,5 @@
 # SNISB
 
-<br>
-
 Sistema Nacional de Informações sobre Segurança de Barragens - SNISB
 
 - https://www.snisb.gov.br
